@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 #Hamza's new feature, I am just adding a comment here!
 
->>>>>>> new-feature
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
